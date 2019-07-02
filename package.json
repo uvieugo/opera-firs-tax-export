@@ -1,0 +1,15 @@
+{
+  "name": "tax-ifc",
+  "version": "1.0.0",
+  "description": "Program to send tax details from Opera and Micros to FIRS",
+  "main": "index.js",
+  "author": "Ugo Uvietesivwi",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "md5": "^2.2.1",
+    "node-schedule": "^1.3.2",
+    "request": "^2.88.0",
+    "server": "^1.0.19"
+  }
+}
