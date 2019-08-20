@@ -1,0 +1,1 @@
+nssm remove Firs Tax confirm
